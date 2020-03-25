@@ -1,8 +1,8 @@
 # Site settings
 title: 周永存 Blog
-SEOTitle: 周永存的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+SEOTitle: 周永存的博客 |  Blog
+header-img: img/post-sample-image.jpg
+email: 18304907364@163.com
 description: "Every failure is leading towards success."
 keyword: "stm32,freertos,usos,linux,hobby"
 url: "http://zyc-ros.github.io"          # your host, for absolute URL
@@ -12,7 +12,7 @@ github_repo: "https://github.com/zyc-ros/zyc-ros.github.io.git" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Ich bin verstick   linux "
-sidebar-avatar: /img/睿智.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/smart1.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -78,7 +78,7 @@ ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
 ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: zhouyongcun.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
